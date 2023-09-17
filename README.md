@@ -33,3 +33,7 @@ Item:
 	- image
 	- ownership
 	- rating
+
+
+# Useful Repositories
+ - card swiping feature, JavaScript https://github.com/gajus/swing 
