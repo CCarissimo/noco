@@ -1,6 +1,13 @@
 # no(n) co(mmercial)
 For communities to effectively share and reuse items.
 
+# Requirements
+
+node.js
+
+npm install --save react-native-swipe-cards
+
+npm expo start
 
 
 ## Minimum Viable Product:
