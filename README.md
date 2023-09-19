@@ -1,9 +1,12 @@
 # no(n) co(mmercial)
-for communities to effectively share and reuse items
+For communities to effectively share and reuse items.
 
-Minimum Viable Product:
+
+
+## Minimum Viable Product:
 
 User:
+
 	- post item
 		- image *
 		- description *
@@ -25,7 +28,12 @@ User:
 		- if multiple users claim ownership, ownership is contested
 
 Item:
+
 	- description
 	- image
 	- ownership
 	- rating
+
+
+# Useful Repositories
+ - card swiping feature, JavaScript https://github.com/gajus/swing 
