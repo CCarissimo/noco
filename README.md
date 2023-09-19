@@ -7,7 +7,7 @@ node.js
 
 npm install --save react-native-swipe-cards
 
-npm expo start
+npx expo start
 
 
 ## Minimum Viable Product:
